@@ -1,0 +1,9 @@
+*{
+    text-align: center;
+}
+#MainTopic{
+    color: blue;
+}
+h1,h3,h5{
+    font-style:light;
+}

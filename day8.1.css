@@ -1,0 +1,9 @@
+div{
+    height: 200px;
+    width: 200px;
+    background-color: rgba(300, 62, 5, 0.7);
+}
+
+#opacity{
+    opacity: 0.5;
+}
